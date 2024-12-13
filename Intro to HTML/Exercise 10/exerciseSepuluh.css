@@ -1,0 +1,80 @@
+p{
+    font-family: 'Roboto', 'Arial';
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.batasnomor{
+    margin-bottom: 70px;
+}
+.kantongdivprofile{
+    width: 200px;
+    height: 310px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0px;
+    display: inline-block;
+    box-shadow:0px 1px 1px 3px rgba(80, 80, 80, 0.256);
+    margin-right: 20px;
+}
+
+.profilepicture{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.kantonginfoprofile{
+    border-style: solid;
+    border-color: black;
+    border-width: 0px;
+    width: 200px;
+    height: 100px;
+}
+
+.profilename{
+    font-weight: bold;
+    font-size: 17px;
+    margin-left: 7px;
+    margin-top: 5px;
+}
+
+.kantongfriendsprofilepicture{
+   width: 25px;
+   display: inline-block;
+   margin-left: 7px;
+   margin-bottom: 5px;
+   margin-top: 5px;
+}
+
+.friendsprofilepicture{
+    object-fit: cover;
+    width: 100%;
+    border-radius: 50px;
+    vertical-align: middle;
+}
+
+.mutualfriendtext{
+    font-size: 15px;
+    color: grey;
+    margin-left: 3px;
+    display: inline-block; 
+    vertical-align: middle;
+
+    
+}
+
+.addfriendbutton{
+    background-color: rgb(80, 129, 243);
+    color: white;
+    font-size: 14px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-width: 0px;
+    border-radius: 7px;
+    margin-left: 7px;
+    margin-top: 5px;
+    cursor: pointer;
+}

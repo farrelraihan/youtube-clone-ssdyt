@@ -1,0 +1,120 @@
+.tujuha{
+    width: 200px;
+    border-radius: 20px;
+}
+
+.tujuhb{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    
+}
+
+.tujuhc{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.tujuhd{
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: grey;
+    font-size: 13px;
+    padding-left: 5px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-style: solid;
+    cursor: pointer;
+    margin-top: 2px;
+}
+
+.tujuhe{
+    border-radius: 18px;
+    border-width: 0px;
+    padding-right: 10px;
+    width: 400px;   
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 10px;
+    font-size: 13px;
+    box-shadow: 3px 2px 6px rgba(0, 0, 0, 0.358);
+
+}
+
+.challengeemail{
+    color: grey;
+    font-size: 12px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.challengeinputbox{
+    margin-top: px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    margin-bottom: 0px;
+    padding-right: 135px;
+}
+
+.challengedescription{
+    margin-top: 8px;
+    margin-bottom: 0px;
+    font-size: 12px;
+    color: grey;
+}
+
+.challengebutton{
+    background-color: rgb(6, 114, 215);
+    color: white;
+    padding-left: 105px;
+    padding-right: 105px;
+    padding-bottom: 9px;
+    padding-top: 9px;
+    border-radius: 16px;
+    margin-top: 8px;
+    border-width: 0px;
+    font-size: 12px;
+    margin-bottom: 30px;
+    
+}
+
+.challengetwitterprofile{
+    width: 25px;
+    height: 25px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-right: 1px;
+    vertical-align: middle;
+    
+}
+
+.challengetweetbox{
+    border-width: 0px;
+    border-color: black;
+    margin-left: 0px;
+    font-size: 10px;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.challengetweetbutton{
+    background-color: rgb(0, 149, 255);
+    color:white;
+    font-size: 9px;
+    border-width: 0px;
+    border-style: solid;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border-radius: 13px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-right: 9px;
+    padding-left: 9px;
+    margin-left: 25px;
+
+}

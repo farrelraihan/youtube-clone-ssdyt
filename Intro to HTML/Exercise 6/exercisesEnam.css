@@ -1,0 +1,21 @@
+.model3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.underline{
+    cursor: pointer;
+}
+
+.description{
+    margin-top: 8px;
+    font-size: 14px;
+}

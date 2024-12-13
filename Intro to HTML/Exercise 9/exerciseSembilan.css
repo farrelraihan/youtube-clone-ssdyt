@@ -1,0 +1,211 @@
+.sembilanc{
+    display: inline-block;
+    border-width: 0.1px;
+    border-color: rgba(0, 0, 0, 0.693);
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    border-style: solid;
+    padding-left: 12px;
+    padding-right: 70px;
+    padding-bottom: 15px;
+}
+
+.buttonyessembilanc{
+    background-color: rgb(236, 235, 235);
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-right: 3px;
+    border-style: solid;
+    border-width: 0.7px;
+    border-color: rgba(0, 0, 0, 0.436);
+    border-radius: 4px;
+   
+}
+
+.youtubemusicbanner{
+    background-color: rgb(72, 62, 62);
+    padding-top: px;
+    width: 350px;
+
+}
+
+.calltoactionheader{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 21px;
+    padding-top: 15px;
+    padding-left: 10px;
+    margin-bottom: 0px;
+
+}
+
+.descriptionbanner{
+    margin-top: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: lightgray;
+    padding-left: 10px;
+    padding-bottom: 15px;
+}
+
+.challengetwitterprofile{
+    width: 25px;
+    height: 25px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-right: 1px;
+    vertical-align: middle;
+    
+}
+
+.challengetweetbox{
+    border-width: 0px;
+    border-color: black;
+    margin-left: 0px;
+    font-size: 10px;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.challengetweetbutton{
+    background-color: rgb(0, 149, 255);
+    color:white;
+    font-size: 9px;
+    border-width: 0px;
+    border-style: solid;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border-radius: 13px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-right: 9px;
+    padding-left: 9px;
+    margin-left: 25px;
+
+}
+
+.tweetbar{
+    padding-left: 8px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 6px;
+    width: 230px;
+    border-width: 0px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    box-shadow: 1px 0.5px 4px rgba(0, 0, 0, 0.38);
+    display: block;
+}
+
+.kantongprofilediv{
+    width: 120px;
+    height: 207px;
+    display: inline-block;
+    border-width: 0.4px;
+    border-style: solid;
+    border-color: grey;
+    margin-top: 50px;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.38);
+    margin-right: 8px;
+}
+
+.profileimages{
+    object-fit: cover;
+    width: 120px;
+    height: 130px
+
+}
+
+.profilename{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    margin-top: 5px;
+    color: black;
+    margin-left: 5px;
+}
+
+.profiledescription{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: grey;
+    margin-top: 2px;
+    margin-bottom: 0px;
+    margin-left: 5px;
+}
+
+.profilebutton{
+    background-color: rgb(0, 128, 255);
+    color: white;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-width: 0px;
+    border-radius: 4px;
+    margin-top: 7px;
+    margin-left: 5px;
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    
+}
+
+.googleimages{
+    width: 200px;
+    height: 50px;
+    margin-bottom: 20px;
+    object-fit: cover;
+}
+
+.googlesearchbar{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 140px;
+    padding-left: 15px;
+    width: 160px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, 0.258);
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.googlebuttons{
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0);
+    width: 110px;
+    margin-right: 10px;
+    margin-left: 0px;
+    background-color: rgba(220, 220, 220, 0.482);
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 6px;
+    padding-right: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.buttoncontainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.centercontent{
+    text-align: center;
+    justify-content: center;
+}

@@ -1,0 +1,196 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', Arial;
+}
+
+h2,h3,h4,p{
+    margin: 0;
+}
+
+/* .util{
+    border-style: dotted;
+    border-width: 1px;
+    border-color: red;
+} */
+
+/* .inblock{
+    display: inline-block;
+} */
+
+.time-txt{
+    font-size: 13px;
+    color: grey;
+}
+
+.d-wrapper{
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+    width: max-content;
+    height: max-content;
+
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: lightgrey;
+    border-radius: 8px;
+
+    padding-top: 6px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.3);
+
+
+}
+
+.category-txt{
+    font-size: 13px;
+    color: grey;
+    margin-bottom: 15px;
+}
+
+.item-wrapper{
+    display: flex;
+    flex-direction: row;
+
+    margin-bottom: 15px;
+
+}
+
+.avatar-wrapper{
+    display: flex;
+    align-items: center;
+}
+
+.txt-wrapper{
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+
+    width: 340px;
+}
+
+.top-row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    
+}
+
+.profile-img{
+    height: 55px;
+    width: 55px;
+    border-radius: 50%;
+}
+
+.subject-txt{
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.message-txt{
+    color: grey;
+    
+}
+
+
+/* F SECTION START HEREEEEE */
+.f-wrapper{
+    display: flex;
+    margin-left: 15px;
+    width: max-content;
+
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: lightgrey;
+    border-radius: 8px;
+
+    
+}
+
+.profile-section{
+
+}
+
+.f-item-section{
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+}
+
+.f-top-row{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.profile-name{
+    font-weight: bold;
+
+}
+
+.profile-user{
+    margin-left: 5px;
+    color: grey;
+}
+
+.tweet-txt{
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-top: 4px;
+    margin-bottom: 2px;
+
+    width: 350px;
+}
+
+.f-bottom-row{
+    display: flex;
+    width: 350px;
+    align-items: center;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    border-radius: 12px;
+    border-color: lightgrey;
+    border-width: 1px;
+    border-style: solid;
+    background-color: rgb(213, 213, 213);
+
+    overflow: hidden;
+}
+
+.video-thumbnail-img{
+    height: 80px;
+    width: 130px;
+
+
+    border-style: solid;
+    border-width: 0px;
+    
+}
+
+.link-section{
+    display: flex;
+    flex-direction: column;
+
+    padding-left: 15px;
+    
+    margin-left: 20px;
+    background-color: white;
+    height: 100%;
+    justify-content: center;
+
+
+}
+
+.yt-link{
+    color: grey;
+}
